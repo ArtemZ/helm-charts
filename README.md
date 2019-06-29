@@ -1,4 +1,4 @@
-# KLOIA HELM Charts 
+# kloia Helm Charts 
 
 Use this repository to submit official helm Charts of kloia.
 Charts are curated application definitions for Helm. 
