@@ -2,7 +2,25 @@ apiVersion: v1
 entries:
   nginx-ingress:
   - appVersion: 0.19.0
-    created: 2019-07-01T00:56:21.110039+03:00
+    created: 2019-08-15T13:03:25.681859+03:00
+    description: High Avaialbility Nginx Ingress
+    digest: 4e3abc455db4b22c9b0233fe107625ccea038cc5ede454b4c00835490744e0a1
+    engine: gotpl
+    home: https://github.com/kubernetes/ingress-nginx
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
+    keywords:
+    - ingress
+    - nginx
+    maintainers:
+    - name: kloiadaasteam
+    name: nginx-ingress
+    sources:
+    - https://github.com/kubernetes/ingress-nginx
+    urls:
+    - nginx-hpa/nginx-hpa/nginx-ingress-0.0.3.tgz
+    version: 0.0.3
+  - appVersion: 0.19.0
+    created: 2019-08-15T13:03:25.674092+03:00
     description: High Avaialbility Nginx Ingress
     digest: 4ae4b2a5b69901cca89ddd6ba81f1da248a7c8934c4de0d740d09ebf6033a3a4
     engine: gotpl
@@ -17,10 +35,10 @@ entries:
     sources:
     - https://github.com/kubernetes/ingress-nginx
     urls:
-    - https://kloia.github.io/helm-charts/nginx-hpa/nginx-ingress-0.0.2.tgz
+    - nginx-hpa/nginx-hpa/nginx-ingress-0.0.2.tgz
     version: 0.0.2
   - appVersion: 0.19.0
-    created: 2019-07-01T00:56:21.108172+03:00
+    created: 2019-08-15T13:03:25.665725+03:00
     description: High Avaialbility Nginx Ingress
     digest: ffab298adf3db50728061d1eb30aae3f9143b84017d86958889dd243b919fe8a
     engine: gotpl
@@ -35,6 +53,6 @@ entries:
     sources:
     - https://github.com/kubernetes/ingress-nginx
     urls:
-    - https://kloia.github.io/helm-charts/nginx-hpa/nginx-ingress-0.0.1.tgz
+    - nginx-hpa/nginx-hpa/nginx-ingress-0.0.1.tgz
     version: 0.0.1
-generated: 2019-07-01T00:56:21.097647+03:00
+generated: 2019-08-15T13:03:25.640603+03:00
