@@ -17,7 +17,7 @@ entries:
     sources:
     - https://github.com/kubernetes/ingress-nginx
     urls:
-    - nginx-hpa/nginx-hpa/nginx-ingress-0.0.3.tgz
+    - nginx-hpa/nginx-ingress-0.0.3.tgz
     version: 0.0.3
   - appVersion: 0.19.0
     created: 2019-08-15T13:03:25.674092+03:00
@@ -35,7 +35,7 @@ entries:
     sources:
     - https://github.com/kubernetes/ingress-nginx
     urls:
-    - nginx-hpa/nginx-hpa/nginx-ingress-0.0.2.tgz
+    - nginx-hpa/nginx-ingress-0.0.2.tgz
     version: 0.0.2
   - appVersion: 0.19.0
     created: 2019-08-15T13:03:25.665725+03:00
@@ -53,6 +53,6 @@ entries:
     sources:
     - https://github.com/kubernetes/ingress-nginx
     urls:
-    - nginx-hpa/nginx-hpa/nginx-ingress-0.0.1.tgz
+    - nginx-hpa/nginx-ingress-0.0.1.tgz
     version: 0.0.1
 generated: 2019-08-15T13:03:25.640603+03:00
